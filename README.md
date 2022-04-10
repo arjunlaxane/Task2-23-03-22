@@ -47,10 +47,6 @@ Q.3)Read
 Q.4) Execute the below code and write your description in txt file
 => typeof.txt file
 
-
-Q.4) Execute the below code and write your description in txt file
-a. typeof(1)
-
 console.log(typeof 1); //number
 
 b. typeof(1.1)
