@@ -1,50 +1,5 @@
 # Task2-23-03-22
 
-Q.1) Execute the below code and write your description in txt file
-a. typeof(1)
-
-console.log(typeof 1); //number
-
-b. typeof(1.1)
-
-console.log(typeof 1.1); //number
-
-c. typeof("1.1")
-
-console.log(typeof "1.1"); //strings
-
-d.typeof(true)
-
-console.log(typeof true); //boolean
-
-e.typeof(null)
-
-console.log(typeof null); //object
-
-f.typeof(undefined)
-
-console.log(undefined);// undefined
-
-g.typeof([])
-
-console.log(typeof []); //object
-
-h.typeof({})
-
-console.log(typeof {}); //object
-
-i.typeof(NaN)
-
-console.log(typeof NaN)// number
-
-
-
-Description for all: 
-1.typeof is a syntax in javascript.
-2.The typeof operator returns a string indicating the type of the unevaluated operand.
-3. Operand:An expression representing the object or primitive whose type is to be returned.
-
-
 
 Q.1) List 5 difference between Browser JS (console) v Nodejs
 >In the browser, most of the time what you are doing is interacting with the DOM, or other Web Platform APIs like Cookies. Those do not exist in Node.js, you don't have the document, window and all the other objects that are provided by the browser.
@@ -91,6 +46,53 @@ Q.3)Read
 > I have read it.
 Q.4) Execute the below code and write your description in txt file
 => typeof.txt file
+
+
+Q.4) Execute the below code and write your description in txt file
+a. typeof(1)
+
+console.log(typeof 1); //number
+
+b. typeof(1.1)
+
+console.log(typeof 1.1); //number
+
+c. typeof("1.1")
+
+console.log(typeof "1.1"); //strings
+
+d.typeof(true)
+
+console.log(typeof true); //boolean
+
+e.typeof(null)
+
+console.log(typeof null); //object
+
+f.typeof(undefined)
+
+console.log(undefined);// undefined
+
+g.typeof([])
+
+console.log(typeof []); //object
+
+h.typeof({})
+
+console.log(typeof {}); //object
+
+i.typeof(NaN)
+
+console.log(typeof NaN)// number
+
+
+
+Description for all: 
+1.typeof is a syntax in javascript.
+2.The typeof operator returns a string indicating the type of the unevaluated operand.
+3. Operand:An expression representing the object or primitive whose type is to be returned.
+
+
 Q.5) What is prototype?
 Here, we will have a look at “prototype in designing” and “prototype in javascript”. 
 
